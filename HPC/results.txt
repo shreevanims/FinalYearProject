@@ -1,0 +1,1440 @@
+
+===== Size=128 Filters=32 Threads=1 =====
+Naive Time: 0.034136
+OpenMP Time: 0.034574
+img2col Serial Time: 0.026446
+img2col OpenMP Time: 0.024495
+
+===== Size=128 Filters=32 Threads=1 =====
+Naive Time: 0.032870
+OpenMP Time: 0.034816
+img2col Serial Time: 0.026484
+img2col OpenMP Time: 0.024171
+
+===== Size=128 Filters=32 Threads=1 =====
+Naive Time: 0.033193
+OpenMP Time: 0.034318
+img2col Serial Time: 0.026526
+img2col OpenMP Time: 0.025059
+
+===== Size=128 Filters=32 Threads=2 =====
+Naive Time: 0.033229
+OpenMP Time: 0.017085
+img2col Serial Time: 0.026704
+img2col OpenMP Time: 0.014340
+
+===== Size=128 Filters=32 Threads=2 =====
+Naive Time: 0.033772
+OpenMP Time: 0.017368
+img2col Serial Time: 0.026585
+img2col OpenMP Time: 0.013209
+
+===== Size=128 Filters=32 Threads=2 =====
+Naive Time: 0.033169
+OpenMP Time: 0.017026
+img2col Serial Time: 0.026314
+img2col OpenMP Time: 0.014576
+
+===== Size=128 Filters=32 Threads=4 =====
+Naive Time: 0.032546
+OpenMP Time: 0.017319
+img2col Serial Time: 0.034858
+img2col OpenMP Time: 0.013871
+
+===== Size=128 Filters=32 Threads=4 =====
+Naive Time: 0.033087
+OpenMP Time: 0.020640
+img2col Serial Time: 0.030950
+img2col OpenMP Time: 0.013792
+
+===== Size=128 Filters=32 Threads=4 =====
+Naive Time: 0.033816
+OpenMP Time: 0.016852
+img2col Serial Time: 0.028225
+img2col OpenMP Time: 0.018778
+
+===== Size=128 Filters=32 Threads=8 =====
+Naive Time: 0.032363
+OpenMP Time: 0.014075
+img2col Serial Time: 0.038547
+img2col OpenMP Time: 0.007626
+
+===== Size=128 Filters=32 Threads=8 =====
+Naive Time: 0.034476
+OpenMP Time: 0.008460
+img2col Serial Time: 0.031663
+img2col OpenMP Time: 0.007640
+
+===== Size=128 Filters=32 Threads=8 =====
+Naive Time: 0.033699
+OpenMP Time: 0.009516
+img2col Serial Time: 0.028621
+img2col OpenMP Time: 0.007908
+
+===== Size=128 Filters=32 Threads=12 =====
+Naive Time: 0.037341
+OpenMP Time: 0.006957
+img2col Serial Time: 0.030630
+img2col OpenMP Time: 0.011002
+
+===== Size=128 Filters=32 Threads=12 =====
+Naive Time: 0.033617
+OpenMP Time: 0.017928
+img2col Serial Time: 0.034989
+img2col OpenMP Time: 0.014377
+
+===== Size=128 Filters=32 Threads=12 =====
+Naive Time: 0.035568
+OpenMP Time: 0.006869
+img2col Serial Time: 0.030436
+img2col OpenMP Time: 0.005702
+
+===== Size=128 Filters=64 Threads=1 =====
+Naive Time: 0.070427
+OpenMP Time: 0.069483
+img2col Serial Time: 0.051499
+img2col OpenMP Time: 0.047078
+
+===== Size=128 Filters=64 Threads=1 =====
+Naive Time: 0.065503
+OpenMP Time: 0.067436
+img2col Serial Time: 0.060146
+img2col OpenMP Time: 0.051955
+
+===== Size=128 Filters=64 Threads=1 =====
+Naive Time: 0.074688
+OpenMP Time: 0.075522
+img2col Serial Time: 0.058749
+img2col OpenMP Time: 0.056205
+
+===== Size=128 Filters=64 Threads=2 =====
+Naive Time: 0.069775
+OpenMP Time: 0.040654
+img2col Serial Time: 0.056216
+img2col OpenMP Time: 0.027511
+
+===== Size=128 Filters=64 Threads=2 =====
+Naive Time: 0.068025
+OpenMP Time: 0.036743
+img2col Serial Time: 0.053898
+img2col OpenMP Time: 0.026105
+
+===== Size=128 Filters=64 Threads=2 =====
+Naive Time: 0.066945
+OpenMP Time: 0.036900
+img2col Serial Time: 0.058184
+img2col OpenMP Time: 0.028038
+
+===== Size=128 Filters=64 Threads=4 =====
+Naive Time: 0.073232
+OpenMP Time: 0.027459
+img2col Serial Time: 0.053243
+img2col OpenMP Time: 0.024822
+
+===== Size=128 Filters=64 Threads=4 =====
+Naive Time: 0.070606
+OpenMP Time: 0.025364
+img2col Serial Time: 0.053497
+img2col OpenMP Time: 0.022587
+
+===== Size=128 Filters=64 Threads=4 =====
+Naive Time: 0.070865
+OpenMP Time: 0.032873
+img2col Serial Time: 0.056521
+img2col OpenMP Time: 0.022572
+
+===== Size=128 Filters=64 Threads=8 =====
+Naive Time: 0.066427
+OpenMP Time: 0.025327
+img2col Serial Time: 0.056137
+img2col OpenMP Time: 0.014975
+
+===== Size=128 Filters=64 Threads=8 =====
+Naive Time: 0.069875
+OpenMP Time: 0.017918
+img2col Serial Time: 0.056607
+img2col OpenMP Time: 0.015839
+
+===== Size=128 Filters=64 Threads=8 =====
+Naive Time: 0.069910
+OpenMP Time: 0.017355
+img2col Serial Time: 0.060415
+img2col OpenMP Time: 0.015600
+
+===== Size=128 Filters=64 Threads=12 =====
+Naive Time: 0.071681
+OpenMP Time: 0.019139
+img2col Serial Time: 0.059462
+img2col OpenMP Time: 0.015318
+
+===== Size=128 Filters=64 Threads=12 =====
+Naive Time: 0.074308
+OpenMP Time: 0.025462
+img2col Serial Time: 0.059405
+img2col OpenMP Time: 0.014841
+
+===== Size=128 Filters=64 Threads=12 =====
+Naive Time: 0.069084
+OpenMP Time: 0.035981
+img2col Serial Time: 0.055630
+img2col OpenMP Time: 0.013546
+
+===== Size=128 Filters=128 Threads=1 =====
+Naive Time: 0.136191
+OpenMP Time: 0.144739
+img2col Serial Time: 0.110389
+img2col OpenMP Time: 0.094915
+
+===== Size=128 Filters=128 Threads=1 =====
+Naive Time: 0.154341
+OpenMP Time: 0.135598
+img2col Serial Time: 0.104166
+img2col OpenMP Time: 0.094919
+
+===== Size=128 Filters=128 Threads=1 =====
+Naive Time: 0.140823
+OpenMP Time: 0.144065
+img2col Serial Time: 0.105931
+img2col OpenMP Time: 0.098798
+
+===== Size=128 Filters=128 Threads=2 =====
+Naive Time: 0.141701
+OpenMP Time: 0.076754
+img2col Serial Time: 0.114731
+img2col OpenMP Time: 0.061368
+
+===== Size=128 Filters=128 Threads=2 =====
+Naive Time: 0.142317
+OpenMP Time: 0.071368
+img2col Serial Time: 0.109473
+img2col OpenMP Time: 0.055766
+
+===== Size=128 Filters=128 Threads=2 =====
+Naive Time: 0.134714
+OpenMP Time: 0.079966
+img2col Serial Time: 0.116824
+img2col OpenMP Time: 0.055176
+
+===== Size=128 Filters=128 Threads=4 =====
+Naive Time: 0.134516
+OpenMP Time: 0.056755
+img2col Serial Time: 0.110866
+img2col OpenMP Time: 0.043590
+
+===== Size=128 Filters=128 Threads=4 =====
+Naive Time: 0.134765
+OpenMP Time: 0.055425
+img2col Serial Time: 0.109743
+img2col OpenMP Time: 0.042005
+
+===== Size=128 Filters=128 Threads=4 =====
+Naive Time: 0.147037
+OpenMP Time: 0.060250
+img2col Serial Time: 0.110597
+img2col OpenMP Time: 0.043005
+
+===== Size=128 Filters=128 Threads=8 =====
+Naive Time: 0.137312
+OpenMP Time: 0.046500
+img2col Serial Time: 0.109755
+img2col OpenMP Time: 0.028789
+
+===== Size=128 Filters=128 Threads=8 =====
+Naive Time: 0.145351
+OpenMP Time: 0.064166
+img2col Serial Time: 0.115434
+img2col OpenMP Time: 0.026548
+
+===== Size=128 Filters=128 Threads=8 =====
+Naive Time: 0.140616
+OpenMP Time: 0.041627
+img2col Serial Time: 0.110629
+img2col OpenMP Time: 0.031238
+
+===== Size=128 Filters=128 Threads=12 =====
+Naive Time: 0.140647
+OpenMP Time: 0.043110
+img2col Serial Time: 0.116826
+img2col OpenMP Time: 0.027541
+
+===== Size=128 Filters=128 Threads=12 =====
+Naive Time: 0.145236
+OpenMP Time: 0.035246
+img2col Serial Time: 0.127180
+img2col OpenMP Time: 0.028056
+
+===== Size=128 Filters=128 Threads=12 =====
+Naive Time: 0.136729
+OpenMP Time: 0.040781
+img2col Serial Time: 0.125440
+img2col OpenMP Time: 0.028996
+
+===== Size=128 Filters=512 Threads=1 =====
+Naive Time: 0.552099
+OpenMP Time: 0.554261
+img2col Serial Time: 0.449233
+img2col OpenMP Time: 0.397875
+
+===== Size=128 Filters=512 Threads=1 =====
+Naive Time: 0.542018
+OpenMP Time: 0.538168
+img2col Serial Time: 0.413075
+img2col OpenMP Time: 0.400422
+
+===== Size=128 Filters=512 Threads=1 =====
+Naive Time: 0.546168
+OpenMP Time: 0.543675
+img2col Serial Time: 0.436600
+img2col OpenMP Time: 0.386517
+
+===== Size=128 Filters=512 Threads=2 =====
+Naive Time: 0.537891
+OpenMP Time: 0.284550
+img2col Serial Time: 0.415428
+img2col OpenMP Time: 0.205573
+
+===== Size=128 Filters=512 Threads=2 =====
+Naive Time: 0.536558
+OpenMP Time: 0.279794
+img2col Serial Time: 0.416795
+img2col OpenMP Time: 0.204819
+
+===== Size=128 Filters=512 Threads=2 =====
+Naive Time: 0.544563
+OpenMP Time: 0.286992
+img2col Serial Time: 0.413913
+img2col OpenMP Time: 0.202259
+
+===== Size=128 Filters=512 Threads=4 =====
+Naive Time: 0.540865
+OpenMP Time: 0.208408
+img2col Serial Time: 0.423967
+img2col OpenMP Time: 0.150947
+
+===== Size=128 Filters=512 Threads=4 =====
+Naive Time: 0.543704
+OpenMP Time: 0.206040
+img2col Serial Time: 0.424728
+img2col OpenMP Time: 0.179543
+
+===== Size=128 Filters=512 Threads=4 =====
+Naive Time: 0.549261
+OpenMP Time: 0.216779
+img2col Serial Time: 0.418308
+img2col OpenMP Time: 0.165536
+
+===== Size=128 Filters=512 Threads=8 =====
+Naive Time: 0.544586
+OpenMP Time: 0.152166
+img2col Serial Time: 0.425859
+img2col OpenMP Time: 0.115462
+
+===== Size=128 Filters=512 Threads=8 =====
+Naive Time: 0.551485
+OpenMP Time: 0.172589
+img2col Serial Time: 0.432141
+img2col OpenMP Time: 0.112658
+
+===== Size=128 Filters=512 Threads=8 =====
+Naive Time: 0.550582
+OpenMP Time: 0.158367
+img2col Serial Time: 0.438478
+img2col OpenMP Time: 0.116408
+
+===== Size=128 Filters=512 Threads=12 =====
+Naive Time: 0.550133
+OpenMP Time: 0.138156
+img2col Serial Time: 0.434813
+img2col OpenMP Time: 0.103611
+
+===== Size=128 Filters=512 Threads=12 =====
+Naive Time: 0.556818
+OpenMP Time: 0.134757
+img2col Serial Time: 0.441613
+img2col OpenMP Time: 0.101916
+
+===== Size=128 Filters=512 Threads=12 =====
+Naive Time: 0.553280
+OpenMP Time: 0.139687
+img2col Serial Time: 0.440402
+img2col OpenMP Time: 0.104229
+
+===== Size=256 Filters=32 Threads=1 =====
+Naive Time: 0.145629
+OpenMP Time: 0.147675
+img2col Serial Time: 0.113540
+img2col OpenMP Time: 0.098381
+
+===== Size=256 Filters=32 Threads=1 =====
+Naive Time: 0.141354
+OpenMP Time: 0.140239
+img2col Serial Time: 0.110251
+img2col OpenMP Time: 0.098236
+
+===== Size=256 Filters=32 Threads=1 =====
+Naive Time: 0.138965
+OpenMP Time: 0.141543
+img2col Serial Time: 0.110246
+img2col OpenMP Time: 0.100130
+
+===== Size=256 Filters=32 Threads=2 =====
+Naive Time: 0.134246
+OpenMP Time: 0.071391
+img2col Serial Time: 0.107035
+img2col OpenMP Time: 0.055302
+
+===== Size=256 Filters=32 Threads=2 =====
+Naive Time: 0.135938
+OpenMP Time: 0.072914
+img2col Serial Time: 0.110070
+img2col OpenMP Time: 0.053932
+
+===== Size=256 Filters=32 Threads=2 =====
+Naive Time: 0.140580
+OpenMP Time: 0.071804
+img2col Serial Time: 0.108345
+img2col OpenMP Time: 0.053581
+
+===== Size=256 Filters=32 Threads=4 =====
+Naive Time: 0.137362
+OpenMP Time: 0.059414
+img2col Serial Time: 0.111789
+img2col OpenMP Time: 0.052801
+
+===== Size=256 Filters=32 Threads=4 =====
+Naive Time: 0.139409
+OpenMP Time: 0.056229
+img2col Serial Time: 0.112636
+img2col OpenMP Time: 0.051624
+
+===== Size=256 Filters=32 Threads=4 =====
+Naive Time: 0.138597
+OpenMP Time: 0.056360
+img2col Serial Time: 0.111284
+img2col OpenMP Time: 0.050546
+
+===== Size=256 Filters=32 Threads=8 =====
+Naive Time: 0.135852
+OpenMP Time: 0.043389
+img2col Serial Time: 0.113684
+img2col OpenMP Time: 0.033023
+
+===== Size=256 Filters=32 Threads=8 =====
+Naive Time: 0.137379
+OpenMP Time: 0.043957
+img2col Serial Time: 0.114953
+img2col OpenMP Time: 0.039744
+
+===== Size=256 Filters=32 Threads=8 =====
+Naive Time: 0.139923
+OpenMP Time: 0.041720
+img2col Serial Time: 0.117325
+img2col OpenMP Time: 0.031633
+
+===== Size=256 Filters=32 Threads=12 =====
+Naive Time: 0.142162
+OpenMP Time: 0.043325
+img2col Serial Time: 0.114269
+img2col OpenMP Time: 0.027942
+
+===== Size=256 Filters=32 Threads=12 =====
+Naive Time: 0.139990
+OpenMP Time: 0.040807
+img2col Serial Time: 0.116933
+img2col OpenMP Time: 0.031638
+
+===== Size=256 Filters=32 Threads=12 =====
+Naive Time: 0.140636
+OpenMP Time: 0.042199
+img2col Serial Time: 0.117944
+img2col OpenMP Time: 0.032965
+
+===== Size=256 Filters=64 Threads=1 =====
+Naive Time: 0.280635
+OpenMP Time: 0.279523
+img2col Serial Time: 0.212368
+img2col OpenMP Time: 0.199687
+
+===== Size=256 Filters=64 Threads=1 =====
+Naive Time: 0.273696
+OpenMP Time: 0.275535
+img2col Serial Time: 0.213508
+img2col OpenMP Time: 0.198764
+
+===== Size=256 Filters=64 Threads=1 =====
+Naive Time: 0.271249
+OpenMP Time: 0.280695
+img2col Serial Time: 0.209488
+img2col OpenMP Time: 0.199165
+
+===== Size=256 Filters=64 Threads=2 =====
+Naive Time: 0.271996
+OpenMP Time: 0.144606
+img2col Serial Time: 0.213953
+img2col OpenMP Time: 0.104378
+
+===== Size=256 Filters=64 Threads=2 =====
+Naive Time: 0.281826
+OpenMP Time: 0.149313
+img2col Serial Time: 0.212758
+img2col OpenMP Time: 0.105512
+
+===== Size=256 Filters=64 Threads=2 =====
+Naive Time: 0.280788
+OpenMP Time: 0.147166
+img2col Serial Time: 0.213625
+img2col OpenMP Time: 0.103312
+
+===== Size=256 Filters=64 Threads=4 =====
+Naive Time: 0.275832
+OpenMP Time: 0.109523
+img2col Serial Time: 0.208718
+img2col OpenMP Time: 0.085732
+
+===== Size=256 Filters=64 Threads=4 =====
+Naive Time: 0.272804
+OpenMP Time: 0.113347
+img2col Serial Time: 0.228598
+img2col OpenMP Time: 0.085447
+
+===== Size=256 Filters=64 Threads=4 =====
+Naive Time: 0.287326
+OpenMP Time: 0.106005
+img2col Serial Time: 0.219168
+img2col OpenMP Time: 0.091048
+
+===== Size=256 Filters=64 Threads=8 =====
+Naive Time: 0.278490
+OpenMP Time: 0.085383
+img2col Serial Time: 0.215593
+img2col OpenMP Time: 0.061975
+
+===== Size=256 Filters=64 Threads=8 =====
+Naive Time: 0.282219
+OpenMP Time: 0.082382
+img2col Serial Time: 0.213712
+img2col OpenMP Time: 0.064686
+
+===== Size=256 Filters=64 Threads=8 =====
+Naive Time: 0.286965
+OpenMP Time: 0.076465
+img2col Serial Time: 0.217426
+img2col OpenMP Time: 0.059511
+
+===== Size=256 Filters=64 Threads=12 =====
+Naive Time: 0.275528
+OpenMP Time: 0.067170
+img2col Serial Time: 0.222774
+img2col OpenMP Time: 0.050614
+
+===== Size=256 Filters=64 Threads=12 =====
+Naive Time: 0.277767
+OpenMP Time: 0.076262
+img2col Serial Time: 0.214636
+img2col OpenMP Time: 0.050568
+
+===== Size=256 Filters=64 Threads=12 =====
+Naive Time: 0.276488
+OpenMP Time: 0.072157
+img2col Serial Time: 0.219666
+img2col OpenMP Time: 0.053162
+
+===== Size=256 Filters=128 Threads=1 =====
+Naive Time: 0.578927
+OpenMP Time: 0.577239
+img2col Serial Time: 0.436159
+img2col OpenMP Time: 0.390169
+
+===== Size=256 Filters=128 Threads=1 =====
+Naive Time: 0.560865
+OpenMP Time: 0.585405
+img2col Serial Time: 0.426559
+img2col OpenMP Time: 0.403440
+
+===== Size=256 Filters=128 Threads=1 =====
+Naive Time: 0.565633
+OpenMP Time: 0.591895
+img2col Serial Time: 0.429591
+img2col OpenMP Time: 0.403323
+
+===== Size=256 Filters=128 Threads=2 =====
+Naive Time: 0.553387
+OpenMP Time: 0.297444
+img2col Serial Time: 0.438113
+img2col OpenMP Time: 0.234321
+
+===== Size=256 Filters=128 Threads=2 =====
+Naive Time: 0.578893
+OpenMP Time: 0.300846
+img2col Serial Time: 0.433721
+img2col OpenMP Time: 0.207439
+
+===== Size=256 Filters=128 Threads=2 =====
+Naive Time: 0.557429
+OpenMP Time: 0.335142
+img2col Serial Time: 0.460426
+img2col OpenMP Time: 0.234612
+
+===== Size=256 Filters=128 Threads=4 =====
+Naive Time: 0.571550
+OpenMP Time: 0.218035
+img2col Serial Time: 0.452404
+img2col OpenMP Time: 0.159795
+
+===== Size=256 Filters=128 Threads=4 =====
+Naive Time: 0.576259
+OpenMP Time: 0.236723
+img2col Serial Time: 0.440812
+img2col OpenMP Time: 0.156038
+
+===== Size=256 Filters=128 Threads=4 =====
+Naive Time: 0.602218
+OpenMP Time: 0.274627
+img2col Serial Time: 0.449715
+img2col OpenMP Time: 0.173783
+
+===== Size=256 Filters=128 Threads=8 =====
+Naive Time: 0.550633
+OpenMP Time: 0.161407
+img2col Serial Time: 0.437671
+img2col OpenMP Time: 0.118553
+
+===== Size=256 Filters=128 Threads=8 =====
+Naive Time: 0.572194
+OpenMP Time: 0.147284
+img2col Serial Time: 0.442975
+img2col OpenMP Time: 0.110964
+
+===== Size=256 Filters=128 Threads=8 =====
+Naive Time: 0.563874
+OpenMP Time: 0.157402
+img2col Serial Time: 0.437959
+img2col OpenMP Time: 0.110577
+
+===== Size=256 Filters=128 Threads=12 =====
+Naive Time: 0.554866
+OpenMP Time: 0.141053
+img2col Serial Time: 0.433459
+img2col OpenMP Time: 0.094665
+
+===== Size=256 Filters=128 Threads=12 =====
+Naive Time: 0.559386
+OpenMP Time: 0.136340
+img2col Serial Time: 0.430536
+img2col OpenMP Time: 0.100755
+
+===== Size=256 Filters=128 Threads=12 =====
+Naive Time: 0.558135
+OpenMP Time: 0.130781
+img2col Serial Time: 0.427555
+img2col OpenMP Time: 0.089523
+
+===== Size=256 Filters=512 Threads=1 =====
+Naive Time: 2.252619
+OpenMP Time: 2.244324
+img2col Serial Time: 1.680850
+img2col OpenMP Time: 1.614816
+
+===== Size=256 Filters=512 Threads=1 =====
+Naive Time: 2.219298
+OpenMP Time: 2.241805
+img2col Serial Time: 1.686406
+img2col OpenMP Time: 1.621809
+
+===== Size=256 Filters=512 Threads=1 =====
+Naive Time: 2.272233
+OpenMP Time: 2.251546
+img2col Serial Time: 1.732932
+img2col OpenMP Time: 1.616364
+
+===== Size=256 Filters=512 Threads=2 =====
+Naive Time: 2.331995
+OpenMP Time: 1.320288
+img2col Serial Time: 1.828584
+img2col OpenMP Time: 0.868020
+
+===== Size=256 Filters=512 Threads=2 =====
+Naive Time: 2.364874
+OpenMP Time: 1.226099
+img2col Serial Time: 1.831271
+img2col OpenMP Time: 0.962524
+
+===== Size=256 Filters=512 Threads=2 =====
+Naive Time: 2.337649
+OpenMP Time: 1.178327
+img2col Serial Time: 1.869076
+img2col OpenMP Time: 0.955079
+
+===== Size=256 Filters=512 Threads=4 =====
+Naive Time: 2.322346
+OpenMP Time: 0.848304
+img2col Serial Time: 1.762448
+img2col OpenMP Time: 0.745568
+
+===== Size=256 Filters=512 Threads=4 =====
+Naive Time: 2.298286
+OpenMP Time: 0.950158
+img2col Serial Time: 1.742846
+img2col OpenMP Time: 0.625809
+
+===== Size=256 Filters=512 Threads=4 =====
+Naive Time: 2.239395
+OpenMP Time: 0.836991
+img2col Serial Time: 1.730274
+img2col OpenMP Time: 0.621617
+
+===== Size=256 Filters=512 Threads=8 =====
+Naive Time: 2.225398
+OpenMP Time: 0.633368
+img2col Serial Time: 1.723508
+img2col OpenMP Time: 0.476868
+
+===== Size=256 Filters=512 Threads=8 =====
+Naive Time: 2.244525
+OpenMP Time: 0.599780
+img2col Serial Time: 1.746219
+img2col OpenMP Time: 0.449226
+
+===== Size=256 Filters=512 Threads=8 =====
+Naive Time: 2.474298
+OpenMP Time: 0.651016
+img2col Serial Time: 1.890514
+img2col OpenMP Time: 0.474714
+
+===== Size=256 Filters=512 Threads=12 =====
+Naive Time: 2.568151
+OpenMP Time: 0.687568
+img2col Serial Time: 2.065735
+img2col OpenMP Time: 0.543845
+
+===== Size=256 Filters=512 Threads=12 =====
+Naive Time: 2.655262
+OpenMP Time: 0.613438
+img2col Serial Time: 2.109827
+img2col OpenMP Time: 0.445834
+
+===== Size=256 Filters=512 Threads=12 =====
+Naive Time: 2.871471
+OpenMP Time: 0.618069
+img2col Serial Time: 2.323332
+img2col OpenMP Time: 0.483739
+
+===== Size=512 Filters=32 Threads=1 =====
+Naive Time: 0.666462
+OpenMP Time: 0.677076
+img2col Serial Time: 0.477499
+img2col OpenMP Time: 0.438612
+
+===== Size=512 Filters=32 Threads=1 =====
+Naive Time: 0.611908
+OpenMP Time: 0.635531
+img2col Serial Time: 0.508265
+img2col OpenMP Time: 0.457126
+
+===== Size=512 Filters=32 Threads=1 =====
+Naive Time: 0.644706
+OpenMP Time: 0.665272
+img2col Serial Time: 0.477515
+img2col OpenMP Time: 0.486956
+
+===== Size=512 Filters=32 Threads=2 =====
+Naive Time: 0.656603
+OpenMP Time: 0.375969
+img2col Serial Time: 0.529466
+img2col OpenMP Time: 0.294187
+
+===== Size=512 Filters=32 Threads=2 =====
+Naive Time: 0.598152
+OpenMP Time: 0.377921
+img2col Serial Time: 0.505980
+img2col OpenMP Time: 0.303698
+
+===== Size=512 Filters=32 Threads=2 =====
+Naive Time: 0.658674
+OpenMP Time: 0.371984
+img2col Serial Time: 0.616659
+img2col OpenMP Time: 0.313905
+
+===== Size=512 Filters=32 Threads=4 =====
+Naive Time: 0.646151
+OpenMP Time: 0.263840
+img2col Serial Time: 0.507916
+img2col OpenMP Time: 0.207934
+
+===== Size=512 Filters=32 Threads=4 =====
+Naive Time: 0.649112
+OpenMP Time: 0.224507
+img2col Serial Time: 0.494640
+img2col OpenMP Time: 0.208945
+
+===== Size=512 Filters=32 Threads=4 =====
+Naive Time: 0.679170
+OpenMP Time: 0.303556
+img2col Serial Time: 0.547246
+img2col OpenMP Time: 0.214548
+
+===== Size=512 Filters=32 Threads=8 =====
+Naive Time: 0.736916
+OpenMP Time: 0.178096
+img2col Serial Time: 0.572628
+img2col OpenMP Time: 0.149217
+
+===== Size=512 Filters=32 Threads=8 =====
+Naive Time: 0.723885
+OpenMP Time: 0.177716
+img2col Serial Time: 0.502868
+img2col OpenMP Time: 0.133830
+
+===== Size=512 Filters=32 Threads=8 =====
+Naive Time: 0.623907
+OpenMP Time: 0.167763
+img2col Serial Time: 0.533160
+img2col OpenMP Time: 0.141663
+
+===== Size=512 Filters=32 Threads=12 =====
+Naive Time: 0.628632
+OpenMP Time: 0.160021
+img2col Serial Time: 0.513424
+img2col OpenMP Time: 0.137812
+
+===== Size=512 Filters=32 Threads=12 =====
+Naive Time: 0.719461
+OpenMP Time: 0.242731
+img2col Serial Time: 0.576911
+img2col OpenMP Time: 0.149747
+
+===== Size=512 Filters=32 Threads=12 =====
+Naive Time: 0.778249
+OpenMP Time: 0.171899
+img2col Serial Time: 0.561181
+img2col OpenMP Time: 0.159323
+
+===== Size=512 Filters=64 Threads=1 =====
+Naive Time: 1.429196
+OpenMP Time: 1.443323
+img2col Serial Time: 1.068724
+img2col OpenMP Time: 1.098864
+
+===== Size=512 Filters=64 Threads=1 =====
+Naive Time: 1.389880
+OpenMP Time: 1.357229
+img2col Serial Time: 1.096625
+img2col OpenMP Time: 1.119865
+
+===== Size=512 Filters=64 Threads=1 =====
+Naive Time: 1.618833
+OpenMP Time: 1.564660
+img2col Serial Time: 1.128063
+img2col OpenMP Time: 1.128172
+
+===== Size=512 Filters=64 Threads=2 =====
+Naive Time: 1.185880
+OpenMP Time: 0.675100
+img2col Serial Time: 0.933046
+img2col OpenMP Time: 0.575195
+
+===== Size=512 Filters=64 Threads=2 =====
+Naive Time: 1.188962
+OpenMP Time: 0.658619
+img2col Serial Time: 0.927442
+img2col OpenMP Time: 0.555231
+
+===== Size=512 Filters=64 Threads=2 =====
+Naive Time: 1.187347
+OpenMP Time: 0.684138
+img2col Serial Time: 0.925867
+img2col OpenMP Time: 0.586090
+
+===== Size=512 Filters=64 Threads=4 =====
+Naive Time: 1.186218
+OpenMP Time: 0.445374
+img2col Serial Time: 0.925339
+img2col OpenMP Time: 0.331792
+
+===== Size=512 Filters=64 Threads=4 =====
+Naive Time: 1.194437
+OpenMP Time: 0.464688
+img2col Serial Time: 0.920501
+img2col OpenMP Time: 0.345796
+
+===== Size=512 Filters=64 Threads=4 =====
+Naive Time: 1.189287
+OpenMP Time: 0.502277
+img2col Serial Time: 0.929056
+img2col OpenMP Time: 0.352367
+
+===== Size=512 Filters=64 Threads=8 =====
+Naive Time: 1.184816
+OpenMP Time: 0.333191
+img2col Serial Time: 0.994715
+img2col OpenMP Time: 0.245496
+
+===== Size=512 Filters=64 Threads=8 =====
+Naive Time: 1.285893
+OpenMP Time: 0.319640
+img2col Serial Time: 1.025532
+img2col OpenMP Time: 0.239989
+
+===== Size=512 Filters=64 Threads=8 =====
+Naive Time: 1.207395
+OpenMP Time: 0.339452
+img2col Serial Time: 1.008441
+img2col OpenMP Time: 0.242682
+
+===== Size=512 Filters=64 Threads=12 =====
+Naive Time: 1.195078
+OpenMP Time: 0.301522
+img2col Serial Time: 0.979494
+img2col OpenMP Time: 0.222100
+
+===== Size=512 Filters=64 Threads=12 =====
+Naive Time: 1.207409
+OpenMP Time: 0.322874
+img2col Serial Time: 1.011988
+img2col OpenMP Time: 0.243169
+
+===== Size=512 Filters=64 Threads=12 =====
+Naive Time: 1.358688
+OpenMP Time: 0.335269
+img2col Serial Time: 1.009384
+img2col OpenMP Time: 0.245058
+
+===== Size=512 Filters=128 Threads=1 =====
+Naive Time: 2.488413
+OpenMP Time: 2.658454
+img2col Serial Time: 2.182032
+img2col OpenMP Time: 2.070384
+
+===== Size=512 Filters=128 Threads=1 =====
+Naive Time: 2.851375
+OpenMP Time: 2.770836
+img2col Serial Time: 2.146286
+img2col OpenMP Time: 2.022597
+
+===== Size=512 Filters=128 Threads=1 =====
+Naive Time: 2.866239
+OpenMP Time: 3.150930
+img2col Serial Time: 2.133959
+img2col OpenMP Time: 2.077485
+
+===== Size=512 Filters=128 Threads=2 =====
+Naive Time: 2.935599
+OpenMP Time: 1.700023
+img2col Serial Time: 2.321133
+img2col OpenMP Time: 1.412125
+
+===== Size=512 Filters=128 Threads=2 =====
+Naive Time: 3.138141
+OpenMP Time: 1.689467
+img2col Serial Time: 2.291339
+img2col OpenMP Time: 1.379530
+
+===== Size=512 Filters=128 Threads=2 =====
+Naive Time: 2.373463
+OpenMP Time: 1.303554
+img2col Serial Time: 1.962629
+img2col OpenMP Time: 1.199852
+
+===== Size=512 Filters=128 Threads=4 =====
+Naive Time: 2.544984
+OpenMP Time: 1.210483
+img2col Serial Time: 2.007052
+img2col OpenMP Time: 0.799500
+
+===== Size=512 Filters=128 Threads=4 =====
+Naive Time: 2.415062
+OpenMP Time: 0.881561
+img2col Serial Time: 1.872549
+img2col OpenMP Time: 0.693758
+
+===== Size=512 Filters=128 Threads=4 =====
+Naive Time: 2.505356
+OpenMP Time: 0.898109
+img2col Serial Time: 1.744831
+img2col OpenMP Time: 0.621936
+
+===== Size=512 Filters=128 Threads=8 =====
+Naive Time: 2.271279
+OpenMP Time: 0.592247
+img2col Serial Time: 1.723516
+img2col OpenMP Time: 0.441452
+
+===== Size=512 Filters=128 Threads=8 =====
+Naive Time: 2.246625
+OpenMP Time: 0.611280
+img2col Serial Time: 1.954628
+img2col OpenMP Time: 0.439388
+
+===== Size=512 Filters=128 Threads=8 =====
+Naive Time: 2.485313
+OpenMP Time: 0.638175
+img2col Serial Time: 1.988492
+img2col OpenMP Time: 0.489787
+
+===== Size=512 Filters=128 Threads=12 =====
+Naive Time: 2.472227
+OpenMP Time: 0.671311
+img2col Serial Time: 2.072794
+img2col OpenMP Time: 0.463655
+
+===== Size=512 Filters=128 Threads=12 =====
+Naive Time: 2.856089
+OpenMP Time: 0.692039
+img2col Serial Time: 2.252631
+img2col OpenMP Time: 0.684797
+
+===== Size=512 Filters=128 Threads=12 =====
+Naive Time: 3.217642
+OpenMP Time: 0.567587
+img2col Serial Time: 1.888314
+img2col OpenMP Time: 0.417314
+
+===== Size=512 Filters=512 Threads=1 =====
+Naive Time: 9.806792
+OpenMP Time: 11.005339
+img2col Serial Time: 9.091117
+img2col OpenMP Time: 7.340663
+
+===== Size=512 Filters=512 Threads=1 =====
+Naive Time: 9.645740
+OpenMP Time: 9.877071
+img2col Serial Time: 8.066407
+img2col OpenMP Time: 7.852443
+
+===== Size=512 Filters=512 Threads=1 =====
+Naive Time: 9.713214
+OpenMP Time: 9.298259
+img2col Serial Time: 8.245574
+img2col OpenMP Time: 8.440502
+
+===== Size=512 Filters=512 Threads=2 =====
+Naive Time: 12.460689
+OpenMP Time: 6.188259
+img2col Serial Time: 8.419208
+img2col OpenMP Time: 5.006104
+
+===== Size=512 Filters=512 Threads=2 =====
+Naive Time: 10.417288
+OpenMP Time: 6.586771
+img2col Serial Time: 10.215999
+img2col OpenMP Time: 5.519057
+
+===== Size=512 Filters=512 Threads=2 =====
+Naive Time: 9.753400
+OpenMP Time: 5.592264
+img2col Serial Time: 8.251965
+img2col OpenMP Time: 5.003188
+
+===== Size=512 Filters=512 Threads=4 =====
+Naive Time: 9.832964
+OpenMP Time: 3.751687
+img2col Serial Time: 8.686321
+img2col OpenMP Time: 3.497396
+
+===== Size=512 Filters=512 Threads=4 =====
+Naive Time: 10.154754
+OpenMP Time: 4.139876
+img2col Serial Time: 9.612096
+img2col OpenMP Time: 3.315658
+
+===== Size=512 Filters=512 Threads=4 =====
+Naive Time: 11.512571
+OpenMP Time: 4.173970
+img2col Serial Time: 8.561573
+img2col OpenMP Time: 2.867099
+
+===== Size=512 Filters=512 Threads=8 =====
+Naive Time: 9.605697
+OpenMP Time: 2.556176
+img2col Serial Time: 8.028436
+img2col OpenMP Time: 1.842464
+
+===== Size=512 Filters=512 Threads=8 =====
+Naive Time: 9.498977
+OpenMP Time: 2.664937
+img2col Serial Time: 8.126801
+img2col OpenMP Time: 1.895135
+
+===== Size=512 Filters=512 Threads=8 =====
+Naive Time: 10.049572
+OpenMP Time: 2.541081
+img2col Serial Time: 8.105622
+img2col OpenMP Time: 1.976526
+
+===== Size=512 Filters=512 Threads=12 =====
+Naive Time: 9.577221
+OpenMP Time: 2.057909
+img2col Serial Time: 7.956706
+img2col OpenMP Time: 1.725070
+
+===== Size=512 Filters=512 Threads=12 =====
+Naive Time: 9.785737
+OpenMP Time: 2.352106
+img2col Serial Time: 8.569732
+img2col OpenMP Time: 1.750808
+
+===== Size=512 Filters=512 Threads=12 =====
+Naive Time: 9.695647
+OpenMP Time: 2.389848
+img2col Serial Time: 8.605768
+img2col OpenMP Time: 1.724581
+
+===== Size=1024 Filters=32 Threads=1 =====
+Naive Time: 2.452368
+OpenMP Time: 2.517623
+img2col Serial Time: 2.006038
+img2col OpenMP Time: 1.847663
+
+===== Size=1024 Filters=32 Threads=1 =====
+Naive Time: 2.406124
+OpenMP Time: 2.419429
+img2col Serial Time: 1.992739
+img2col OpenMP Time: 2.004458
+
+===== Size=1024 Filters=32 Threads=1 =====
+Naive Time: 2.895150
+OpenMP Time: 2.855113
+img2col Serial Time: 2.389824
+img2col OpenMP Time: 1.989140
+
+===== Size=1024 Filters=32 Threads=2 =====
+Naive Time: 2.379829
+OpenMP Time: 1.398272
+img2col Serial Time: 2.008491
+img2col OpenMP Time: 1.293522
+
+===== Size=1024 Filters=32 Threads=2 =====
+Naive Time: 2.415510
+OpenMP Time: 1.571535
+img2col Serial Time: 2.004069
+img2col OpenMP Time: 1.283423
+
+===== Size=1024 Filters=32 Threads=2 =====
+Naive Time: 2.537663
+OpenMP Time: 1.407558
+img2col Serial Time: 2.009243
+img2col OpenMP Time: 1.299836
+
+===== Size=1024 Filters=32 Threads=4 =====
+Naive Time: 2.467069
+OpenMP Time: 1.058177
+img2col Serial Time: 2.089207
+img2col OpenMP Time: 0.822443
+
+===== Size=1024 Filters=32 Threads=4 =====
+Naive Time: 2.450397
+OpenMP Time: 0.985760
+img2col Serial Time: 2.088951
+img2col OpenMP Time: 0.853163
+
+===== Size=1024 Filters=32 Threads=4 =====
+Naive Time: 2.545410
+OpenMP Time: 1.046287
+img2col Serial Time: 2.201675
+img2col OpenMP Time: 0.854363
+
+===== Size=1024 Filters=32 Threads=8 =====
+Naive Time: 2.576519
+OpenMP Time: 0.769915
+img2col Serial Time: 2.273572
+img2col OpenMP Time: 0.584080
+
+===== Size=1024 Filters=32 Threads=8 =====
+Naive Time: 2.744072
+OpenMP Time: 0.724122
+img2col Serial Time: 2.176732
+img2col OpenMP Time: 0.597543
+
+===== Size=1024 Filters=32 Threads=8 =====
+Naive Time: 2.766132
+OpenMP Time: 0.719993
+img2col Serial Time: 2.226541
+img2col OpenMP Time: 0.527636
+
+===== Size=1024 Filters=32 Threads=12 =====
+Naive Time: 2.614800
+OpenMP Time: 0.615983
+img2col Serial Time: 2.263976
+img2col OpenMP Time: 0.537679
+
+===== Size=1024 Filters=32 Threads=12 =====
+Naive Time: 2.685929
+OpenMP Time: 0.591502
+img2col Serial Time: 2.097288
+img2col OpenMP Time: 0.475351
+
+===== Size=1024 Filters=32 Threads=12 =====
+Naive Time: 2.727365
+OpenMP Time: 0.635208
+img2col Serial Time: 2.118149
+img2col OpenMP Time: 0.567149
+
+===== Size=1024 Filters=64 Threads=1 =====
+Naive Time: 5.154094
+OpenMP Time: 5.004539
+img2col Serial Time: 4.094834
+img2col OpenMP Time: 3.793725
+
+===== Size=1024 Filters=64 Threads=1 =====
+Naive Time: 5.265603
+OpenMP Time: 5.351618
+img2col Serial Time: 4.261703
+img2col OpenMP Time: 3.842345
+
+===== Size=1024 Filters=64 Threads=1 =====
+Naive Time: 5.599951
+OpenMP Time: 5.442885
+img2col Serial Time: 4.141807
+img2col OpenMP Time: 3.866697
+
+===== Size=1024 Filters=64 Threads=2 =====
+Naive Time: 5.315521
+OpenMP Time: 3.183511
+img2col Serial Time: 4.170627
+img2col OpenMP Time: 2.367579
+
+===== Size=1024 Filters=64 Threads=2 =====
+Naive Time: 5.296897
+OpenMP Time: 3.034890
+img2col Serial Time: 4.077378
+img2col OpenMP Time: 2.522426
+
+===== Size=1024 Filters=64 Threads=2 =====
+Naive Time: 5.501273
+OpenMP Time: 3.097609
+img2col Serial Time: 4.374302
+img2col OpenMP Time: 2.398492
+
+===== Size=1024 Filters=64 Threads=4 =====
+Naive Time: 5.504689
+OpenMP Time: 2.032066
+img2col Serial Time: 4.180437
+img2col OpenMP Time: 1.545975
+
+===== Size=1024 Filters=64 Threads=4 =====
+Naive Time: 5.300659
+OpenMP Time: 2.034780
+img2col Serial Time: 4.127469
+img2col OpenMP Time: 1.678671
+
+===== Size=1024 Filters=64 Threads=4 =====
+Naive Time: 5.307501
+OpenMP Time: 1.935428
+img2col Serial Time: 4.156862
+img2col OpenMP Time: 1.593092
+
+===== Size=1024 Filters=64 Threads=8 =====
+Naive Time: 5.004413
+OpenMP Time: 1.255104
+img2col Serial Time: 3.667244
+img2col OpenMP Time: 0.992620
+
+===== Size=1024 Filters=64 Threads=8 =====
+Naive Time: 4.740928
+OpenMP Time: 1.310809
+img2col Serial Time: 3.764716
+img2col OpenMP Time: 0.965735
+
+===== Size=1024 Filters=64 Threads=8 =====
+Naive Time: 4.801493
+OpenMP Time: 1.253836
+img2col Serial Time: 3.853637
+img2col OpenMP Time: 0.946682
+
+===== Size=1024 Filters=64 Threads=12 =====
+Naive Time: 4.901858
+OpenMP Time: 1.194444
+img2col Serial Time: 3.944593
+img2col OpenMP Time: 0.935596
+
+===== Size=1024 Filters=64 Threads=12 =====
+Naive Time: 5.054305
+OpenMP Time: 1.154748
+img2col Serial Time: 3.940266
+img2col OpenMP Time: 0.847311
+
+===== Size=1024 Filters=64 Threads=12 =====
+Naive Time: 4.867541
+OpenMP Time: 1.186148
+img2col Serial Time: 4.893921
+img2col OpenMP Time: 1.177191
+
+===== Size=1024 Filters=128 Threads=1 =====
+Naive Time: 12.065934
+OpenMP Time: 12.855378
+img2col Serial Time: 9.537050
+img2col OpenMP Time: 8.686434
+
+===== Size=1024 Filters=128 Threads=1 =====
+Naive Time: 9.617147
+OpenMP Time: 9.534935
+img2col Serial Time: 7.296090
+img2col OpenMP Time: 7.269402
+
+===== Size=1024 Filters=128 Threads=1 =====
+Naive Time: 10.776581
+OpenMP Time: 11.825256
+img2col Serial Time: 8.782129
+img2col OpenMP Time: 8.006051
+
+===== Size=1024 Filters=128 Threads=2 =====
+Naive Time: 11.088791
+OpenMP Time: 6.322469
+img2col Serial Time: 8.960670
+img2col OpenMP Time: 4.851126
+
+===== Size=1024 Filters=128 Threads=2 =====
+Naive Time: 10.859369
+OpenMP Time: 6.471739
+img2col Serial Time: 8.882842
+img2col OpenMP Time: 4.827935
+
+===== Size=1024 Filters=128 Threads=2 =====
+Naive Time: 12.770566
+OpenMP Time: 6.715270
+img2col Serial Time: 8.763394
+img2col OpenMP Time: 5.057468
+
+===== Size=1024 Filters=128 Threads=4 =====
+Naive Time: 12.461832
+OpenMP Time: 4.081010
+img2col Serial Time: 9.473182
+img2col OpenMP Time: 3.077586
+
+===== Size=1024 Filters=128 Threads=4 =====
+Naive Time: 11.537833
+OpenMP Time: 3.859401
+img2col Serial Time: 8.176733
+img2col OpenMP Time: 2.682596
+
+===== Size=1024 Filters=128 Threads=4 =====
+Naive Time: 10.255360
+OpenMP Time: 4.465749
+img2col Serial Time: 8.269866
+img2col OpenMP Time: 2.750790
+
+===== Size=1024 Filters=128 Threads=8 =====
+Naive Time: 10.558217
+OpenMP Time: 2.702932
+img2col Serial Time: 7.932117
+img2col OpenMP Time: 1.751305
+
+===== Size=1024 Filters=128 Threads=8 =====
+Naive Time: 10.034054
+OpenMP Time: 2.519907
+img2col Serial Time: 7.907094
+img2col OpenMP Time: 1.979631
+
+===== Size=1024 Filters=128 Threads=8 =====
+Naive Time: 10.435084
+OpenMP Time: 2.482983
+img2col Serial Time: 7.891390
+img2col OpenMP Time: 1.822001
+
+===== Size=1024 Filters=128 Threads=12 =====
+Naive Time: 10.739225
+OpenMP Time: 2.481476
+img2col Serial Time: 8.412522
+img2col OpenMP Time: 1.620766
+
+===== Size=1024 Filters=128 Threads=12 =====
+Naive Time: 10.817104
+OpenMP Time: 2.598912
+img2col Serial Time: 8.355805
+img2col OpenMP Time: 1.740469
+
+===== Size=1024 Filters=128 Threads=12 =====
+Naive Time: 11.037989
+OpenMP Time: 2.206011
+img2col Serial Time: 8.424815
+img2col OpenMP Time: 1.863220
+
+===== Size=1024 Filters=512 Threads=1 =====
+Naive Time: 102.437713
+OpenMP Time: 98.794739
+img2col Serial Time: 67.365157
+img2col OpenMP Time: 66.881798
+
+===== Size=1024 Filters=512 Threads=1 =====
+Naive Time: 192.841960
+OpenMP Time: 210.001682
+img2col Serial Time: 123.753276
+img2col OpenMP Time: 110.942257
+
+===== Size=1024 Filters=512 Threads=1 =====
+Naive Time: 146.502165
+OpenMP Time: 141.952011
+img2col Serial Time: 92.520664
+img2col OpenMP Time: 84.423178
+
+===== Size=1024 Filters=512 Threads=2 =====
+Naive Time: 117.960827
+OpenMP Time: 50.798240
+img2col Serial Time: 86.934140
+img2col OpenMP Time: 40.972052
+
+===== Size=1024 Filters=512 Threads=2 =====
+Naive Time: 116.408316
+OpenMP Time: 51.619490
+img2col Serial Time: 83.704718
+img2col OpenMP Time: 39.871709
+
+===== Size=1024 Filters=512 Threads=2 =====
+Naive Time: 127.698489
+OpenMP Time: 52.565795
+img2col Serial Time: 79.871428
+img2col OpenMP Time: 50.315098
+
+===== Size=1024 Filters=512 Threads=4 =====
+Naive Time: 111.253274
+OpenMP Time: 31.995929
+img2col Serial Time: 117.935918
+img2col OpenMP Time: 26.662464
+
+===== Size=1024 Filters=512 Threads=4 =====
+Naive Time: 150.327860
+OpenMP Time: 47.354124
+img2col Serial Time: 127.215377
+img2col OpenMP Time: 42.971365
+
+===== Size=1024 Filters=512 Threads=4 =====
+Naive Time: 197.184820
+OpenMP Time: 53.334358
+img2col Serial Time: 122.922535
+img2col OpenMP Time: 42.189688
+
+===== Size=1024 Filters=512 Threads=8 =====
+Naive Time: 181.034052
+OpenMP Time: 28.440289
+img2col Serial Time: 127.203830
+img2col OpenMP Time: 23.333605
+
+===== Size=1024 Filters=512 Threads=8 =====
+Naive Time: 173.583058
+OpenMP Time: 29.637526
+img2col Serial Time: 122.443140
+img2col OpenMP Time: 22.280339
+
+===== Size=1024 Filters=512 Threads=8 =====
+Naive Time: 173.752100
+OpenMP Time: 30.130853
+img2col Serial Time: 123.932685
+img2col OpenMP Time: 23.243577
+
+===== Size=1024 Filters=512 Threads=12 =====
+Naive Time: 176.228021
+OpenMP Time: 26.877836
+img2col Serial Time: 122.644882
+img2col OpenMP Time: 20.481182
+
+===== Size=1024 Filters=512 Threads=12 =====
+Naive Time: 178.434178
+OpenMP Time: 28.852183
+img2col Serial Time: 130.290415
+img2col OpenMP Time: 22.364558
+
+===== Size=1024 Filters=512 Threads=12 =====
+Naive Time: 201.117896
+OpenMP Time: 30.844239
+img2col Serial Time: 129.020475
+img2col OpenMP Time: 19.330439
